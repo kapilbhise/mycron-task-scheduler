@@ -1,4 +1,4 @@
-# mycron
+# Mycron: A Task Scheduler
 
 ```bash
 # Install dependencies for server
